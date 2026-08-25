@@ -1,0 +1,1 @@
+QureAI SIH 2026 Final Prototype v3.0 — computed classical inference + measured local Qiskit QSVC layer
